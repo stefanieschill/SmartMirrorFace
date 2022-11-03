@@ -16,10 +16,10 @@ from azure.cognitiveservices.vision.face.models import TrainingStatusType, Perso
 
 
 # This key will serve all examples in this document.
-KEY = "23580f0694cc4212a0030a021a988adf"
+KEY = "Add key"
 
 # This endpoint will be used in all examples in this quickstart.
-ENDPOINT = "https://smartmirror-facerecognition.cognitiveservices.azure.com/"
+ENDPOINT = "Add endpoint"
 
 # Base url for the Verify and Facelist/Large Facelist operations
 IMAGE_BASE_URL = 'https://csdx.blob.core.windows.net/resources/Face/Images/'
